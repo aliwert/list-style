@@ -1,0 +1,30 @@
+
+*{
+    margin: 0;
+}
+
+ul.languages{
+    border: 1px solid red;
+    /* padding: 0; */
+
+    /* madde imi stilleri */
+    list-style-type: none;
+    list-style-type: square;
+    list-style-type: circle;
+    list-style-type: lower-alpha;
+    list-style-type: georgian;
+    list-style-type: disc;
+
+
+
+    /* madde imleri li'leri icinde mi disinda mi */
+
+    list-style-position: inside;
+    list-style-image: url(./img/house-solid.svg);
+    
+    
+    
+}
+h2{
+    color: purple;
+}
